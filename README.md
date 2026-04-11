@@ -12,10 +12,10 @@
 
 ## ⚡ About Me
 
-- 🧠 Strong in **full-stack development (React, Node.js, Python)** :contentReference[oaicite:0]{index=0}  
-- 🎮 Passionate about **game development (C++, Unity)**  
-- 🔍 Focused on **performance, clean architecture, and real-world systems**  
-- 🤝 Experience working in **teams + mentoring peers** :contentReference[oaicite:1]{index=1}  
+- 🧠 Strong in **full-stack development (React, Node.js, Python)
+- 🔍 Focused on **performance, clean architecture, and real-world systems
+- 🤝 Experience working in **teams + mentoring peers
+  
 
 ---
 
