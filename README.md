@@ -21,9 +21,12 @@
 
 ## 🚀 Featured Projects
 
-### 🧪 CodeRed (WIP)
-> Building something impactful — details coming soon  
-🔗 https://github.com/CompPingu/CodeRed  
+---
+### 📱 Macro Tracking App (AI)
+> AI-powered nutrition tracking using image recognition  
+- 🤖 Uses Gemini Vision API for food detection  
+- 📊 Tracks calories, protein, carbs, fat  
+- 🔁 Multi-model AI fallback system
 
 ---
 
@@ -42,13 +45,10 @@
 🔗 https://github.com/CompPingu/Library-Database  
 
 ---
+### 🧪 CodeRed (WIP)
+> Building something impactful — details coming soon  
+🔗 https://github.com/CompPingu/CodeRed  
 
-### 📱 Macro Tracking App (AI)
-> AI-powered nutrition tracking using image recognition  
-- 🤖 Uses Gemini Vision API for food detection  
-- 📊 Tracks calories, protein, carbs, fat  
-- 🔁 Multi-model AI fallback system  
-*(Private / Resume Project)*  
 
 ---
 
